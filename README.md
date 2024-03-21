@@ -5,7 +5,7 @@ This repository is the implement of our paper Deep Imbalanced Learning for Multi
 
 ## Setup
 * Check the packages needed or simply run the command:
-  ```
+```
 pip install -r requirements.txt
 ```
 ## Acknowledgements
