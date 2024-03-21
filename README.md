@@ -1,7 +1,7 @@
 # Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations
 This repository is the implement of our paper Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations.
 ## Model Architecture
-![image](https://github.com/yuntaoshou/CBERL/blob/main/fig/GAN.pdf)
+![image](https://github.com/yuntaoshou/CBERL/blob/main/fig/fig1.png)
 
 ## Setup
 * Check the packages needed or simply run the command:
